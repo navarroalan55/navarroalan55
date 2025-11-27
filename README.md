@@ -56,9 +56,3 @@ I’m a researcher and aspiring full-stack developer exploring AI, data analytic
 
 ![JJK](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NscTZxeGFjYnRsOTF1b3Zvb2g3NXRzY3Y2ZHJseGFmdDN3ZjkydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ramBbsu5kGc8AJHd1h/giphy.gif)
 
-
----
-
-## 💬 Let’s Connect
-- ✉️ [Email](navarroalan55@gmail.com)  
-- 💬 Open to collaboration, mentorship, and cool project ideas
